@@ -1,0 +1,5 @@
+Zoom ---   829507
+Aditya  ---   829507
+Aarya   ---   994964
+Standup ---   705978
+mongodb://localhost:27017
